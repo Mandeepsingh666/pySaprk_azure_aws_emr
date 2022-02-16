@@ -1,4 +1,4 @@
-# PySaprk_Azure_AWS_EMR
+# PySaprk_AWS_EMR
 ### Overview 
 In this project, I tried to show my knowledge of pyspark and  AWS EMR. 
 Initially, I was going to do this project in  Azure HDinsights but Azure does not allow students (student subscription) to create spark clusters because of a core limit on server nodes.
